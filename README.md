@@ -20,6 +20,8 @@ make
 ### As python library
 ``` sh
 python3 setup.py build
+```
+```sh
 python3 setup.py install
 ```
 
