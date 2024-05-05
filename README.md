@@ -11,6 +11,8 @@ apt install make -y ; sudo apt install zlib1g -y ; pgk install python3 -y
 ```
 #cek my repository dependecies and then install to
 
+https://github.com/zetaxlinux/dependencies.git
+
 ## How to compile
 ### Main program
 *** Need zlib-devel    
