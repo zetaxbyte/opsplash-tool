@@ -9,7 +9,7 @@ sudo apt update -y ; sudo apt upgrade -y
 ```sh
 apt install make -y ; sudo apt install zlib1g -y ; sudo apt install python3 -y
 ```
-#cek my repository dependecies and then install to
+#cek my repository dependecies and then install
 
 https://github.com/zetaxlinux/dependencies.git
 
