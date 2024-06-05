@@ -7,7 +7,7 @@ sudo apt update -y ; sudo apt upgrade -y
 ```
 #python3 make zlib-dev package
 ```sh
-apt install make -y ; sudo apt install zlib1g -y ; sudo apt install python3 -y
+sudo apt install make -y ; sudo apt install zlib1g -y ; sudo apt install python3 -y
 ```
 #cek my repository dependecies and then install
 
