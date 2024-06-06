@@ -3,11 +3,11 @@ A command line tool unpack/repack oppo/realme/oneplus splash image
 
 # setup
 ```sh
-sudo apt update -y ; sudo apt upgrade -y
+apt update -y ; apt upgrade -y
 ```
 #python3 make zlib-dev package
 ```sh
-sudo apt install make -y ; sudo apt install zlib1g -y ; sudo apt install python3 -y ; sudo apt install pip -y && pip install setuptools ; pip install --upgrade setuptools
+apt install make -y ; apt install zlib1g -y ; apt install python3 -y ; apt install pip -y && pip install setuptools ; pip install --upgrade setuptools
 ```
 #cek my repository dependecies and then install
 
